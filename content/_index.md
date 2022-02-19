@@ -8,7 +8,7 @@ weight: 1
 ---
 
 <center>
-<img src="images/rv5.png" width="100%">
+<img src="images/rv5.jpg" width="100%">
 </center>
 
 Bienvenue à toutes et à tous ! 🎶

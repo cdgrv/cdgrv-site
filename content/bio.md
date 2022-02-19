@@ -9,7 +9,7 @@ weight: 1
 ---
 
 <center>
-<img src="../images/rv10.png" width="70%">
+<img src="../images/rv10.jpg" width="70%">
 </center>
 
 <br/>

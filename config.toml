@@ -1,6 +1,6 @@
 title = "Cours de Guitare à Genève et Lausanne"
 # TO CHANGE
-baseURL = "https://cryptodictionary.github.io" 
+baseURL = "https://www.cours-de-guitare.ch" 
 languageCode = "fr-FR"
 theme = "ananke"
 resourceDir = "../resources"

@@ -8,6 +8,10 @@ weight: 2
 
 ---
 
+<center>
+<img src="../images/g0.jpg" width="100%">
+</center>
+
 <h2>Enseignements</h2>
 
 Selon les désirs de l'élève:
@@ -33,8 +37,4 @@ Selon les désirs de l'élève:
 * Musiques du monde
 * Chansons et accompagnement
 
-<br/>
 
-<center>
-<img src="../images/g0.png" width="100%">
-</center>
