@@ -1,23 +1,24 @@
 ---
-title: "Bienvenue"
+title: "Accueil"
 omit_header_text: false
 type: page
+menu: main
+weight: 1
 
 ---
 
 
-Bienvenue! Je vous propose des **cours de guitare** à Lausanne et à
-Genève, pour élèves de tous niveaux, débutant à avancé.
+Bienvenue à tous ! **La guitare** est l’instrument le plus populaire au monde et ce n’est pas un hasard. C’est un instrument abordable et très intuitif. Ainsi, différents styles et musiques à travers le monde ont donné à la guitare une place centrale, propulsant ainsi l’instrument au-devant de toutes les scènes !
 
-J'enseigne **différents styles** musicaux: Classique, jazz, blues, bossa
-nova, musiques sud-américaines, pop, folk.
+**Rodrigo Valenzuela** vous propose des cours de guitare à **Genève et Lausanne** pour élèves de tous niveaux, de débutants à avancés.
 
+Différents styles et techniques sont enseignées : Classique, Jazz, Blues, Bossa Nova, Musiques sud-américaines, Musique Capverdienne, pop, folk.
+Ainsi que l’initiation et l’accompagnement à la découverte de ce bel instrument !
 
-Pour plus d'informations, ou pour convenir d'un premier cours, n'hésitez pas à me
-contacter au +41 78 832 33 43, ou par email à cours.d.guitare@gmail.com.
+<br/>
 
 <center>
-<img src="images/rv4.png" width="100%">
+<img src="images/rv5.png" width="100%">
 </center>
 
 

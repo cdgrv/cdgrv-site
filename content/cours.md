@@ -1,6 +1,6 @@
 ---
 title: Cours
-omit_header_text: true
+omit_header_text: false
 description: Cours
 type: page
 menu: main
@@ -8,13 +8,9 @@ weight: 2
 
 ---
 
-Tarifs:
-
-* Abonnement de 4 cours : CHF 280 (70 frs/heure)
-* Abonnement de 8 cours : CHF 540 (67.5 frs/heure)
-* Abonnement de 12 cours : CHF 780 (65 frs/heure)
-
 <h2>Enseignements</h2>
+
+Selon les désirs de l'élève:
 
 * Solfège et harmonie.
 * Travail rythmique.
@@ -33,7 +29,12 @@ Tarifs:
 * Blues
 * Bossa nova
 * Folk & pop
-* Musiques Sud-Américaines 
+* Musiques sud-américaines 
 * Musiques du monde
 * Chansons et accompagnement
 
+<br/>
+
+<center>
+<img src="../images/g0.png" width="100%">
+</center>
