@@ -1,5 +1,5 @@
 ---
-title: Tarifs et Conditions
+title: Tarifs
 omit_header_text: true
 description: 
 type: page
@@ -8,11 +8,11 @@ weight: 3
 
 ---
 
-* Abonnement de 4 cours : CHF 280 (70 frs/heure)
+* Abonnement de 4 cours : CHF 280 
 
-* Abonnement de 8 cours : CHF 540 (67.5 frs/heure)
+* Abonnement de 8 cours : CHF 540
 
-* Abonnement de 12 cours : CHF 780 (65 frs/heure)
+* Abonnement de 12 cours : CHF 780
 
 <br/>
 

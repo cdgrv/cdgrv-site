@@ -8,7 +8,7 @@ weight: 4
 
 ---
 
-* Tel : +41 78 832 33 43
+* Tel : <a href="tel:+4178-832-33-43">+41 78 832 33 43</a>
 
 * Email : cours.d.guitare@gmail.com.
 
