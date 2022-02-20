@@ -8,6 +8,10 @@ weight: 3
 
 ---
 
+<center>
+<img src="../images/g1.jpg" width="100%">
+</center>
+
 Je vous propose des cours de 60min, avec les forfaits suivants:
 
 * 4 cours CHF 320 (80/cours)
