@@ -8,19 +8,19 @@ weight: 3
 
 ---
 
-* Abonnement de 4 cours : CHF 280 
+Je vous propose des cours de 60min, avec les forfaits suivants:
 
-* Abonnement de 8 cours : CHF 540
+* 4 cours CHF 320 (80/cours)
 
-* Abonnement de 12 cours : CHF 780
+* 8 cours CHF 590 (73.75/cours)
 
-<br/>
+* 12 cours CHF 840 (70/cours)
 
 <h3>Conditions</h3>
 
-* L’abonnement est renouvelable autant de fois que l’élève le désire.
+* Les forfaits sont renouvelables autant de fois que l'élève le souhaite.
 
-* Les cours sont payés en avance au plus tard le premier cours d’un nouveau forfait. 
+* Les cours sont payable à l'avance, au plus tard le premier cours d’un nouveau forfait. 
 
 * En cas d’annulation, merci d’avertir au moins 24 heures à l’avance ; le cas échéant le cours reste à la charge de l’élève.
 

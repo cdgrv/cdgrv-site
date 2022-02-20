@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
+copyright = "Rodrigo Valenzuela"
 
 [languages]
   [languages.en]
