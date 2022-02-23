@@ -9,7 +9,7 @@ weight: 2
 ---
 
 <center>
-<img src="../images/g1.jpg" width="100%">
+<img src="../images/g2.jpg" width="100%">
 </center>
 
 <h2>Enseignements</h2>
