@@ -18,7 +18,7 @@ weight: 1
 
 S'ensuivent des études au Conservatoire de l’Université Catholique de Valparaiso, Chili, où il découvre les incontournables de la guitare classique et commence à donner des concerts pour son lycée. Il prend en parallèle des cours de guitare Flamenco avec la guitariste Silvia Marambio.
 
-Arrivé en Suisse à 19 ans, il étude dans la classe de Haim Shazar pendant deux ans, puis il poursuit ses études de guitare classique aux conservatoires de Lausanne et Fribourg, ainsi que la guitare jazz et l’Harmonie Jazz à L’EJMA de Lausanne.
+Arrivé en Suisse à 19 ans, il étudie dans la classe de Haim Shazar pendant deux ans, puis il poursuit ses études de guitare classique aux conservatoires de Lausanne et Fribourg, ainsi que de la guitare jazz et l’harmonie jazz à L’EJMA de Lausanne.
 
  Il gagne un premier prix de composition lors du festival “XX Jazz en France” en 2000.
 
