@@ -78,5 +78,8 @@ you can clone that repository by doing
 git@github.com:cdgrv/cdgrv.github.io.git
 ```
 
+To install hugo, see <https://gohugo.io/getting-started/installing/>.
+You first need to have installed [Homebrew](https://brew.sh/).
+
 
 
