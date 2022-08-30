@@ -26,7 +26,7 @@ To see how the site looks like locally, you'll need to have a local copy
 of the repository, obtained after doing
 
 ```
-git@github.com:cdgrv/cdgrv.github.io.git
+git clone git@github.com:cdgrv/cdgrv-site.git
 ```
 
 in a terminal (this requires having generated an SSH key and added it to
@@ -75,7 +75,7 @@ cdgrv.github.io in the same directory than that of cdgrv-site/. Again,
 you can clone that repository by doing
 
 ```
-git@github.com:cdgrv/cdgrv.github.io.git
+git clone git@github.com:cdgrv/cdgrv.github.io.git
 ```
 
 To install hugo, see <https://gohugo.io/getting-started/installing/>.
