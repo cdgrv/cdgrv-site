@@ -1,10 +1,11 @@
 ---
 title: Contact
 omit_header_text: true
-description: Contact
+description: "Contact | Cours de guitare à Genève et Lausanne"
 type: page
 menu: main
 weight: 4
+tags: ["guitare", "cours", "lausanne", "geneve"]
 
 ---
 

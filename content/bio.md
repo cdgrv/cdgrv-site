@@ -1,10 +1,11 @@
 ---
 title: Le Professeur
 omit_header_text: true
-description: Biographie
+description: "Biographie | Cours de guitare à Genève et Lausanne"
 type: page
 menu: main
 weight: 1
+tags: ["guitare", "cours", "lausanne", "geneve"]
 
 ---
 

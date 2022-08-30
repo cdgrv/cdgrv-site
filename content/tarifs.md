@@ -1,10 +1,11 @@
 ---
 title: Tarifs
 omit_header_text: true
-description: 
+description: "Tarifs | Cours de guitare à Genève et Lausanne"
 type: page
 menu: main
 weight: 3
+tags: ["guitare", "cours", "lausanne", "geneve"]
 
 ---
 

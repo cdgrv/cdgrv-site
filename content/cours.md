@@ -1,10 +1,11 @@
 ---
 title: Cours
 omit_header_text: false
-description: Cours
+description: "Cours | Cours de guitare à Genève et Lausanne"
 type: page
 menu: main
 weight: 2
+tags: ["guitare", "cours", "lausanne", "geneve"]
 
 ---
 

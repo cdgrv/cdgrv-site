@@ -3,6 +3,7 @@ omit_header_text: true
 type: page
 menu: main
 weight: 1
+tags: ["guitare", "cours", "lausanne", "geneve"]
 
 ---
 
