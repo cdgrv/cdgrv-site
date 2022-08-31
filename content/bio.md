@@ -5,7 +5,7 @@ description: "Biographie | Cours de guitare à Genève et Lausanne"
 type: page
 menu: main
 weight: 1
-tags: ["guitare", "cours", "lausanne", "geneve"]
+tags: ["guitare", "cours", "lausanne", "geneve", "cours de guitare", "jazz", "bossa nova", "guitare classique", "guitare jazz", "harmonie", "improvisation", "solfège"]
 
 ---
 
